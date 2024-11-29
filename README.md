@@ -1,4 +1,4 @@
-<img width="1440" alt="Morph  IP " src="https://github.com/user-attachments/assets/f45d32bc-5a88-47d1-b4a1-90bd7eb11a36"><h2> Image Processing and Its Relation to Morphology and the Hit-or-Miss Transform </h2>
+
 
 Introduction
 
