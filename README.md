@@ -34,7 +34,7 @@ How the Hit-or-Miss Transform Works:
 
 4. Intersection of Results:
    
-   - The final result is computed using a bitwise AND operation between the erosion result with $$ B_1 $$ and the complement of the erosion result with $$ B_2 $$.
+   - The final result is computed using a bitwise AND operation between the erosion result with  B_1  and the complement of the erosion result with  B_2 .
 
 Applications of the Hit-or-Miss Transform:
 
@@ -56,8 +56,8 @@ The provided code is a Python script that utilizes the OpenCV library for image 
 
 5. Drawing Geometric Shapes:
    
-   - **Circle**: A white circle with its center at coordinates (200, 100) and a radius of 50 pixels is drawn.
-   - **Rectangle**: A white rectangle with specified corners from (50, 200) to (150, 300) is drawn.
+   - Circle: A white circle with its center at coordinates (200, 100) and a radius of 50 pixels is drawn.
+   - Rectangle: A white rectangle with specified corners from (50, 200) to (150, 300) is drawn.
 
 7. Adding Noise to the Image:
    
@@ -99,6 +99,8 @@ In conclusion, image processing techniques like morphology and the Hit-or-Miss t
 ---
 
 <img width="1440" alt="Morph" src="https://github.com/user-attachments/assets/6c684a3b-3243-4878-b253-8b28cb82fe0f">
+
+---
 
 
 
