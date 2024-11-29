@@ -1,3 +1,5 @@
+<h2> Image Processing and Its Relation to Morphology and the Hit-or-Miss Transform
+ </h2>
 
 
 Introduction
@@ -17,7 +19,7 @@ Morphological operations are primarily used for processing binary images but can
 
 Hit-or-Miss Transform
 
-The **Hit-or-Miss** transform is an important technique in morphology used for identifying specific patterns in binary images. This transform allows us to determine whether a particular object exists within an image.
+The Hit-or-Miss transform is an important technique in morphology used for identifying specific patterns in binary images. This transform allows us to determine whether a particular object exists within an image.
 
 How the Hit-or-Miss Transform Works:
 
@@ -28,7 +30,7 @@ How the Hit-or-Miss Transform Works:
 
 3. Erosion Operation:
     
-   - The original image is first eroded using the structural element $$ B_1 $$ to check if the desired pattern exists.
+   - The original image is first eroded using the structural element  B_1 to check if the desired pattern exists.
 
 4. Intersection of Results:
    
